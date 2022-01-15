@@ -10,7 +10,7 @@ html {
     -webkit-text-size-adjust:100%}
 
 body {margin:0}
-#navbar-collapse {
+.nav>li>a {
     font-size: 30px;
 }
 article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary {display:block}
